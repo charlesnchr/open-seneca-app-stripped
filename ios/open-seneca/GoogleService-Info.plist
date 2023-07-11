@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>917957692861-623bovc7loqh1ncccoh6l9a28dadkl80.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.917957692861-623bovc7loqh1ncccoh6l9a28dadkl80</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>917957692861-imknars2f4s602ta7bi1smp02jpjc0n7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDydS42la3KEHv6LNEruGPlZxGLBxjrsik</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917957692861</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.opensenecasensorapp.ios</string>
+	<key>PROJECT_ID</key>
+	<string>open-seneca-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>open-seneca-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917957692861:ios:6e636fc6e2ff3b9ae956d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://open-seneca-app.firebaseio.com</string>
+</dict>
+</plist>
